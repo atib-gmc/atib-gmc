@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm atib</h1>
 <h3 align="center">A passionate frontend developer from lebak banten indonesia</h3>
-<img align="right" width=400 src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coding" />
+<img align="right" width=400  src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atib-gmc&label=Profile%20views&color=0e75b6&style=flat" alt="atib-gmc" /> </p>
 
